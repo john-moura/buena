@@ -1,0 +1,6 @@
+node_modules
+dist
+npm-debug.log
+property-controller-errors.log
+ai-extraction-errors.log
+
