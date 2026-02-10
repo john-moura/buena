@@ -2,6 +2,10 @@
 
 A full-stack application for managing properties, buildings, and units, featuring AI-powered data extraction from PDF documents.
 
+## 📺 Demo
+
+![Buena Platform Demo](file:///Media/Buena.mp4)
+
 ## 🚀 Quick Start (Docker)
 
 The fastest way to get the entire project running is using Docker Compose.
