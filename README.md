@@ -4,7 +4,7 @@ A full-stack application for managing properties, buildings, and units, featurin
 
 ## 📺 Demo
 
-[![Buena Platform Demo]](https://drive.google.com/file/d/19s88BjZMinCoPgyPqS1ykXhJjHoykbso/view?usp=sharing)
+[Buena Platform Demo](https://drive.google.com/file/d/19s88BjZMinCoPgyPqS1ykXhJjHoykbso/view?usp=sharing)
 
 ## 🚀 Quick Start (Docker)
 
